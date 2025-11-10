@@ -1,7 +1,7 @@
 
 ======================================================== 
 
-  ESP32-S3 — Multi-Core Peripheral Experiments
+# ESP32-S3 — Multi-Core Peripheral Experiments
   
 ======================================================= 
 

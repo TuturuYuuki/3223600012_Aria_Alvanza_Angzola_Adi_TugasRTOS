@@ -44,14 +44,21 @@
 
   Struktur Folder:
   ESP32S3-MultiCore/
+  
   ├── OLED/
   
   ├── LED/
+  
   ├── Buzzer/
+  
   ├── Stepper/
+  
   ├── PushButton/
+  
   ├── Potentiometer/
+  
   ├── Encoder/
+  
   └── Task_FreeRTOS/
 
 --------------------------------------------------------

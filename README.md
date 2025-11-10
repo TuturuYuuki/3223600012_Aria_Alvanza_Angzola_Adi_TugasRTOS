@@ -20,8 +20,10 @@
   Tujuannya untuk memahami cara kerja multi-core pada ESP32-S3
   serta bagaimana setiap perangkat I/O dijalankan secara paralel.
 
---------------------------------------------------------
+  ## Simulasi Wokwi : https://wokwi.com/projects/447206591545559041
 
+--------------------------------------------------------
+  
   Daftar Percobaan (Total 8 Program):
   1. OLED 
   2. LED

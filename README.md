@@ -23,14 +23,14 @@
 --------------------------------------------------------
 
   Daftar Percobaan (Total 8 Program):
-  1. OLED Display
+  1. OLED 
   2. LED
   3. Buzzer
-  4. Motor Stepper
+  4. Servo
   5. Push Button
-  6. Potentiometer
+  6. Potensiometer
   7. Rotary Encoder
-  8. Task (FreeRTOS)
+  8. Stepper
 
 --------------------------------------------------------
 

@@ -69,7 +69,7 @@
 
   Tools:
   - Board     : ESP32-S3
-  - IDE       : WOKWIK
+  - IDE       : WOKWI
   - Framework : FreeRTOS
   - Bahasa    : C / C++
 

@@ -1,5 +1,4 @@
-
-# 01 — Dual Core Stepper Control + Mutex (ESP32-S3)
+# 06 — Dual Core Stepper Control + Mutex (ESP32-S3)
 
 ## Description / Deskripsi
 
@@ -31,7 +30,7 @@ Tujuan utama: membuktikan bahwa dua core dapat mengakses hardware yang sama seca
 | 5 | Tekan kedua tombol bergantian | Log tetap teratur, tidak tabrakan mutex (arah tetap benar) |
 
 
-## Evidence / Catatan Bukti
+## Image Evidence
 
 ### Core 0 Berjalan
 <img width="1024" height="755" alt="Screenshot 2025-11-10 181022" src="https://github.com/user-attachments/assets/b1bc5c44-a813-4ca1-80e7-0e7184ca0e60" />
@@ -43,4 +42,4 @@ Tujuan utama: membuktikan bahwa dua core dapat mengakses hardware yang sama seca
 
 
 ## Video Evidence
-Google Drive:https://drive.google.com/file/d/1XfipWjuTFF7m_CiqFttfeVyyAULJF5o0/view?usp=sharing  
+![Stepper](https://github.com/user-attachments/assets/4e1cc8ca-7cc7-45c5-91a8-a330c9c6fb68)

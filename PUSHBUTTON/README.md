@@ -28,15 +28,15 @@ Tujuan utama: membuktikan bahwa kedua core memproses event berbeda tanpa saling 
 | 4  | Tekan cepat berkali-kali | Tidak terjadi bouncing berlebih |
 | 5  | Perhatikan log per-core | “Core 0” log BUTTON1, “Core 1” log BUTTON2 |
 
-## Evidence Placeholder
+## Image Evidence 
 
-### Core 0 berjalan → <img width="759" height="756" alt="Screenshot 2025-11-10 153758" src="https://github.com/user-attachments/assets/5fca37cb-7780-4094-a55d-eda307e98efe" />
+### Core 0 berjalan 
+<img width="759" height="756" alt="Screenshot 2025-11-10 153758" src="https://github.com/user-attachments/assets/5fca37cb-7780-4094-a55d-eda307e98efe" />
 
 
-### Core 1 berjalan → *<img width="754" height="747" alt="Screenshot 2025-11-10 153837" src="https://github.com/user-attachments/assets/b37cf0c4-5d9c-4751-b23d-96a18d1a4217" />
+### Core 1 berjalan  
+<img width="754" height="747" alt="Screenshot 2025-11-10 153837" src="https://github.com/user-attachments/assets/b37cf0c4-5d9c-4751-b23d-96a18d1a4217" />
 
 
 ## Video Evidence
-
-Google Drive:
-https://drive.google.com/file/d/1-XxH-NLUAm_1-87Xlxk12dqir5M4JGrs/view?usp=sharing
+![Button](https://github.com/user-attachments/assets/b9b72b29-b671-4fbf-9ace-a2b906271b0d)
